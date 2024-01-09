@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pod-mysb
-        image: bohyunchoi/spring:12
+        image: bohyunchoi/spring:17
         ports:
         - containerPort: 8085
 ---
